@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE abiword PUBLIC "-//ABISOURCE//DTD AWML 1.0 Strict//EN" "http://www.abisource.com/awml.dtd">
-<abiword template="false" xmlns:ct="http://www.abisource.com/changetracking.dtd" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:math="http://www.w3.org/1998/Math/MathML" xid-max="61" xmlns:dc="http://purl.org/dc/elements/1.1/" styles="unlocked" fileformat="1.1" xmlns:svg="http://www.w3.org/2000/svg" xmlns:awml="http://www.abisource.com/awml.dtd" xmlns="http://www.abisource.com/awml.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.9.1" xml:space="preserve" props="dom-dir:ltr; document-footnote-restart-section:0; document-endnote-type:numeric; document-endnote-place-enddoc:1; document-endnote-initial:1; lang:es; document-endnote-restart-section:0; document-footnote-restart-page:0; document-footnote-type:numeric; document-footnote-initial:1; document-endnote-place-endsection:0">
+<abiword template="false" xmlns:ct="http://www.abisource.com/changetracking.dtd" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:svg="http://www.w3.org/2000/svg" xid-max="2" xmlns:dc="http://purl.org/dc/elements/1.1/" styles="unlocked" fileformat="1.1" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:awml="http://www.abisource.com/awml.dtd" xmlns="http://www.abisource.com/awml.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.9.1" xml:space="preserve" props="dom-dir:ltr; document-footnote-restart-section:0; document-endnote-type:numeric; document-endnote-place-enddoc:1; document-endnote-initial:1; lang:es; document-endnote-restart-section:0; document-footnote-restart-page:0; document-footnote-type:numeric; document-footnote-initial:1; document-endnote-place-endsection:0">
 <!-- ======================================================================== -->
 <!-- This file is an AbiWord document.                                        -->
 <!-- AbiWord is a free, Open Source word processor.                           -->
@@ -9,76 +9,24 @@
 <!-- ======================================================================== -->
 
 <metadata>
-<m key="abiword.date_last_changed">Fri Oct 22 13:25:44 2021
+<m key="abiword.date_last_changed">Sat Oct 23 14:14:22 2021
 </m>
 <m key="abiword.generator">AbiWord</m>
 <m key="dc.creator">ricardo</m>
-<m key="dc.date">Wed Oct 20 21:04:53 2021
+<m key="dc.date">Sat Oct 23 14:14:22 2021
 </m>
 <m key="dc.format">application/x-abiword</m>
 </metadata>
 <rdf>
 </rdf>
-<history version="14" edit-time="24706" last-saved="1634923544" uid="9914f938-320a-11ec-8866-dba6c4dc357c">
-<version id="7" started="1634778293" uid="adc940b2-3211-11ec-8866-dba6c4dc357c" auto="0" top-xid="6"/>
-<version id="8" started="1634834962" uid="d74bfd94-328e-11ec-94bb-8347bf712812" auto="0" top-xid="16"/>
-<version id="14" started="1634911080" uid="167afd8e-335d-11ec-981b-c2707689f2b8" auto="0" top-xid="20"/>
+<history version="1" edit-time="30" last-saved="1635012862" uid="fa59f5f8-342c-11ec-9f1c-d57667956b13">
+<version id="1" started="1635012862" uid="0c3a176c-342d-11ec-9f1c-d57667956b13" auto="0" top-xid="2"/>
 </history>
 <styles>
-<s type="P" name="Normal" followedby="Current Settings" props="font-family:Times New Roman; margin-top:0pt; color:000000; margin-left:0pt; widows:2; font-style:normal; text-indent:0in; text-position:normal; margin-right:0pt; text-decoration:none; bgcolor:transparent; line-height:1.0; font-size:12pt; margin-bottom:0pt; font-variant:normal; font-weight:normal; text-align:left; font-stretch:normal"/>
+<s type="P" name="Normal" followedby="Current Settings" props="font-family:Times New Roman; margin-top:0pt; color:000000; margin-left:0pt; text-position:normal; widows:2; font-style:normal; text-indent:0in; font-variant:normal; font-weight:normal; margin-right:0pt; font-size:12pt; text-decoration:none; margin-bottom:0pt; line-height:1.0; bgcolor:transparent; text-align:left; font-stretch:normal"/>
 </styles>
-<pagesize pagetype="A4" orientation="portrait" width="8.267717" height="11.692913" units="in" page-scale="1.000000"/>
-<section xid="5" props="page-margin-footer:0.5000in; page-margin-header:0.5000in; page-margin-right:1.0000in; page-margin-left:1.0000in; page-margin-top:1.0000in; page-margin-bottom:1.0000in">
-<p style="Normal" xid="6" props="text-align:left; dom-dir:ltr">Netflix =&gt; https://www.youtube.com/watch?v=x_EEwGe-a9o&amp;t=1370s<c></c></p>
-<p style="Normal" xid="2"><c></c><c></c></p>
-<p style="Normal" xid="1"><c></c>20:37 =&gt; Muestra las dependencias por si acaso tienes problemas de dependencia.</p>
-<p style="Normal" xid="3"><c></c><c></c></p>
-<p style="Normal" xid="4">21:51 =&gt; Ver puertos ocupados por una Aplicación en particular =&gt; <c></c><c props="bgcolor:transparent; font-weight:bold; color:008000">lsof</c> -i :3000</p>
-<p style="Normal" xid="7"><c></c><c></c></p>
-<p style="Normal" xid="8">24:57 =&gt; Creó dos archivos jumbo y faqsa .json ambos, (Ni idea para que son??)<c></c></p>
-<p style="Normal" xid="9"><c></c><c></c></p>
-<p style="Normal" xid="10">32:28 =&gt; Macro de styled components lo usa para que cree mas entendible los nombres a las classes<c></c></p>
-<p style="Normal" xid="11"><c></c><c></c></p>
-<p style="Normal" xid="12"><c props="font-size:14.000000pt; font-weight:normal; font-family:Droid Sans Mono; color:000000">import styled from "styled-components/macro";</c><c props="font-size:14.000000pt; font-weight:normal; font-family:Droid Sans Mono; color:000000"></c></p>
-<p style="Normal" xid="15"><c props="font-size:14.000000pt; font-weight:normal; font-family:Droid Sans Mono; color:000000"></c><c></c></p>
-<p style="Normal" xid="16" props="text-align:left; dom-dir:ltr">&lt;div class="<c></c><c props="bgcolor:transparent; font-weight:bold; color:008000">jumbotron</c>__Inner-sc-es77m8-0 buRRKK"&gt;&lt;p&gt;Hello Again!&lt;/p&gt;&lt;/div&gt;</p>
-<p style="Normal" xid="13"><c props="font-weight:normal; color:d4d4d4; font-family:Droid Sans Mono; font-size:14.000000pt"></c><c></c></p>
-<p style="Normal" xid="14"><c props="font-size:14.000000pt; font-weight:normal; font-family:Droid Sans Mono; color:ff0000">Hora 1:00</c><c props="font-size:14.000000pt; font-weight:normal; font-family:Droid Sans Mono; color:ff0000"></c></p>
-<p style="Normal" xid="17"><c props="font-size:14.000000pt; font-weight:normal; font-family:Droid Sans Mono; color:ff0000"></c></p>
-<p style="Normal" xid="18"><c props="font-size:14.000000pt; color:000000; font-family:Droid Sans Mono; font-weight:normal">1:02:16 -&gt; Demasiado cool está llamando al componente Item que había creado antes, y lo trae a container.</c></p>
-<p style="Normal" xid="29"><c props="font-size:14.000000pt; color:000000; font-family:Droid Sans Mono; font-weight:normal"></c></p>
-<p style="Normal" xid="30"><c props="font-weight:normal; color:#1b1b1b; text-transform:none; font-size:16.000000pt; font-style:normal">La</c><c props="" props="font-weight:normal; color:#1b1b1b; text-transform:none; font-size:16.000000pt; font-style:normal"> </c><c props="text-decoration:none">pseudo-class</c><c props="font-weight:normal; text-decoration:none; color:#1b1b1b; text-transform:none; font-size:16.000000pt; font-style:normal"> </c><c props="font-family:Courier; font-weight:bold">:last-of-type</c><c props="font-weight:normal; color:#1b1b1b; text-transform:none; font-size:16.000000pt; font-style:normal"> de</c><c props="" props="font-weight:normal; color:#1b1b1b; text-transform:none; font-size:16.000000pt; font-style:normal"> </c><c>CSS</c><c props="" props="font-weight:normal; color:#1b1b1b; text-transform:none; font-size:16.000000pt; font-style:normal"> </c><c props="font-weight:normal; color:#1b1b1b; text-transform:none; font-size:16.000000pt; font-style:normal">representa el último elemento de su tipo entre un grupo de elementos hermanos.</c></p>
-<p style="Normal" xid="35"><c></c></p>
-<p style="Normal" xid="37"><c>ej:</c></p>
-<p style="Normal" xid="42"><c></c></p>
-<table xid="43">
-<cell xid="44" props="bot-attach:1; left-attach:0; right-attach:1; top-attach:0">
-<p style="Normal" xid="45"><c props="font-family:Courier; font-size:8pt; color:6d6d6d; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:-none-">&lt;</c><c props="font-family:Courier; font-size:8pt; color:a30008; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:-none-">h2</c><c props="font-family:Courier; font-size:8pt; color:6d6d6d; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:-none-">&gt;</c><c props="font-family:Courier; font-size:8pt; color:1b1b1b; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:-none-">Título</c><c props="font-family:Courier; font-size:8pt; color:6d6d6d; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:-none-">&lt;/</c><c props="font-family:Courier; font-size:8pt; color:a30008; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:-none-">h2</c><c props="font-family:Courier; font-size:8pt; color:6d6d6d; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:-none-">&gt;</c><c props="font-family:Courier; font-size:8pt; color:1b1b1b; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:-none-"><br/></c><c props="font-family:Courier; font-size:8pt; color:6d6d6d; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:-none-">&lt;</c><c props="font-family:Courier; font-size:8pt; color:a30008; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:-none-">p</c><c props="font-family:Courier; font-size:8pt; color:6d6d6d; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:-none-">&gt;</c><c props="font-family:Courier; font-size:8pt; color:1b1b1b; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:-none-">Párrafo 1</c><c props="font-family:Courier; font-size:8pt; color:6d6d6d; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:-none-">&lt;/</c><c props="font-family:Courier; font-size:8pt; color:a30008; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:-none-">p</c><c props="font-family:Courier; font-size:8pt; color:6d6d6d; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:-none-">&gt;</c><c props="font-family:Courier; font-size:8pt; color:1b1b1b; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:-none-"><br/></c><c props="font-family:Courier; font-size:8pt; color:6d6d6d; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:-none-">&lt;</c><c props="font-family:Courier; font-size:8pt; color:a30008; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:-none-">p</c><c props="font-family:Courier; font-size:8pt; color:6d6d6d; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:-none-">&gt;</c><c props="font-family:Courier; font-size:8pt; color:1b1b1b; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:-none-">Párrafo 2</c><c props="font-family:Courier; font-size:8pt; color:6d6d6d; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:-none-">&lt;/</c><c props="font-family:Courier; font-size:8pt; color:a30008; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:-none-">p</c><c props="font-family:Courier; font-size:8pt; color:6d6d6d; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:-none-">&gt;</c></p>
-</cell>
-<cell xid="47" props="bot-attach:1; left-attach:1; right-attach:2; top-attach:0">
-<p style="Normal" xid="48"><c props="font-size:8pt; font-weight:normal; font-family:Courier; text-transform:none; color:#005a38; font-style:normal">p:last-of-type</c><c props="font-size:8pt; font-weight:normal; font-family:Courier; text-transform:none; color:#1b1b1b; font-style:normal"> </c><c props="font-size:8pt; font-weight:normal; font-family:Courier; text-transform:none; color:#6d6d6d; font-style:normal">{</c><c props="font-size:8pt; font-weight:normal; font-family:Courier; text-transform:none; color:#1b1b1b; font-style:normal"><br/>  </c><c props="font-size:8pt; font-weight:normal; font-family:Courier; text-transform:none; color:#a30008; font-style:normal">color</c><c props="font-size:8pt; font-weight:normal; font-family:Courier; text-transform:none; color:#6d6d6d; font-style:normal">:</c><c props="font-size:8pt; font-weight:normal; font-family:Courier; text-transform:none; color:#1b1b1b; font-style:normal"> red</c><c props="font-size:8pt; font-weight:normal; font-family:Courier; text-transform:none; color:#6d6d6d; font-style:normal">;</c><c props="font-size:8pt; font-weight:normal; font-family:Courier; text-transform:none; color:#1b1b1b; font-style:normal"><br/>  </c><c props="font-size:8pt; font-weight:normal; font-family:Courier; text-transform:none; color:#a30008; font-style:normal">font-style</c><c props="font-size:8pt; font-weight:normal; font-family:Courier; text-transform:none; color:#6d6d6d; font-style:normal">:</c><c props="font-size:8pt; font-weight:normal; font-family:Courier; text-transform:none; color:#1b1b1b; font-style:normal"> italic</c><c props="font-size:8pt; font-weight:normal; font-family:Courier; text-transform:none; color:#6d6d6d; font-style:normal">;</c><c props="font-size:8pt; font-weight:normal; font-family:Courier; text-transform:none; color:#1b1b1b; font-style:normal"><br/></c><c props="font-size:8pt; font-weight:normal; font-family:Courier; text-transform:none; color:#6d6d6d; font-style:normal">}</c></p>
-<p style="Normal" xid="54"><c props="font-weight:normal; color:#1b1b1b; text-transform:none; font-size:16.000000pt; font-style:normal"></c></p>
-</cell>
-<cell xid="50" props="bot-attach:1; left-attach:2; right-attach:3; top-attach:0">
-<p style="Normal" xid="51"><c props="font-family:Times New Roman; text-transform:none; color:#000000; font-style:normal">Título</c></p>
-<p style="Normal" xid="56" props="text-align:start; text-indent:0px; orphans:2; widows:2"><c props="font-weight:normal; color:#000000; font-family:Times New Roman; text-transform:none; font-size:12pt; font-style:normal">Párrafo 1</c></p>
-<p style="Normal" xid="57" props="text-align:start; text-indent:0px; orphans:2; widows:2"><c props="font-weight:normal; color:#ff0000; font-family:Times New Roman; text-transform:none; font-size:12pt; font-style:italic">Párrafo 2</c></p>
-<p style="Normal" xid="58" props="text-align:start; text-indent:0px; orphans:2; widows:2"><c props="font-weight:normal; color:#ff0000; font-family:Times New Roman; text-transform:none; font-size:12pt; font-style:italic"></c></p>
-<p style="Normal" xid="59" props="text-align:start; text-indent:0px; orphans:2; widows:2"><c props="font-weight:normal; color:#ff0000; font-family:Times New Roman; text-transform:none; font-size:12pt; font-style:italic"></c></p>
-</cell>
-</table>
-<p style="Normal" xid="38"><c></c></p>
-<p style="Normal" xid="39"><c props="font-size:8pt; font-weight:normal; font-family:Courier; text-transform:none; color:#6d6d6d; font-style:normal"></c></p>
-<p style="Normal" xid="20"><c props="font-size:14.000000pt; color:000000; font-family:Droid Sans Mono; font-weight:bold">export const Container = styled.div`</c></p>
-<p style="Normal" xid="21"><c props="font-size:14.000000pt; color:000000; font-family:Droid Sans Mono; font-weight:bold">@media (max-width: 1000px) {</c></p>
-<p style="Normal" xid="22"><c props="font-size:14.000000pt; color:000000; font-family:Droid Sans Mono; font-weight:bold">${</c><c props="font-weight:bold; font-size:14.000000pt; font-family:Droid Sans Mono; color:008000">Item</c><c props="font-size:14.000000pt; color:000000; font-family:Droid Sans Mono; font-weight:bold">}:last-of-type h2 {</c></p>
-<p style="Normal" xid="23"><c props="font-size:14.000000pt; color:000000; font-family:Droid Sans Mono; font-weight:bold">margin-bottom: 50px;</c></p>
-<p style="Normal" xid="24"><c props="font-size:14.000000pt; color:000000; font-family:Droid Sans Mono; font-weight:bold">}</c></p>
-<p style="Normal" xid="25"><c props="font-size:14.000000pt; color:000000; font-family:Droid Sans Mono; font-weight:bold">}</c></p>
-<p style="Normal" xid="60"><c props="font-size:14.000000pt; color:000000; font-family:Droid Sans Mono; font-weight:bold"></c></p>
-<p style="Normal" xid="61"><c props="font-family:Droid Sans Mono; font-size:14pt; color:ff0000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:-none-">Hora 1:30</c></p>
-<p style="Normal" xid="26"><c props="font-weight:normal; color:ce9178; font-family:Droid Sans Mono; font-size:14.000000pt">`</c><c props="font-weight:normal; color:d4d4d4; font-family:Droid Sans Mono; font-size:14.000000pt">;</c></p>
-<p style="Normal" xid="27"><c props="font-weight:normal; color:d4d4d4; font-family:Droid Sans Mono; font-size:14.000000pt"></c></p>
-<p style="Normal" xid="28"><c props="font-weight:normal; color:d4d4d4; font-family:Droid Sans Mono; font-size:14.000000pt"></c></p>
+<pagesize pagetype="A4" orientation="portrait" width="210.000000" height="297.000000" units="mm" page-scale="1.000000"/>
+<section xid="1" props="page-margin-footer:0.5000in; page-margin-header:0.5000in; page-margin-right:1.0000in; page-margin-left:1.0000in; page-margin-top:1.0000in; page-margin-bottom:1.0000in">
+<p style="Normal" xid="2"><c>Quedé en Hora 2</c></p>
 </section>
 </abiword>
